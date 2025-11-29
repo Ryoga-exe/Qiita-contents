@@ -1,5 +1,22 @@
 {
+  "name": "qiita-contents",
+  "private": true,
+  "description": "https://qiita.com/Ryoga-exe",
+  "version": "1.0.0",
+  "author": "Ryoga-exe",
+  "license": "ISC",
+  "keywords": [
+    "qiita"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com/Ryoga-exe/Qiita-contents"
+  },
   "dependencies": {
     "@qiita/qiita-cli": "^1.6.2"
+  },
+  "scripts": {
+    "preview": "bunx qiita preview",
+    "new": "bunx qiita new"
   }
 }
