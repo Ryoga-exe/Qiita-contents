@@ -1,5 +1,9 @@
 # Qiita Contents
 
+[![LICENSE](https://img.shields.io/github/license/Ryoga-exe/Qiita-contents?style=plastic)](https://github.com/Ryoga-exe/Qiita-contents/blob/main/LICENSE)
+[![Articles](https://badgen.org/img/qiita/Ryoga-exe/articles?style=plastic)](https://qiita.com/Ryoga-exe)
+[![Contributions](https://badgen.org/img/qiita/Ryoga-exe/contributions?style=plastic)](https://qiita.com/Ryoga-exe)
+
 ## Setup
 
 Install dependencies
