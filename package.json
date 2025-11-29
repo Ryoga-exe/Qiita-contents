@@ -16,7 +16,10 @@
     "@qiita/qiita-cli": "^1.6.2"
   },
   "scripts": {
+    "login": "bunx qiita login",
     "preview": "bunx qiita preview",
-    "new": "bunx qiita new"
+    "pull": "bunx qiita pull",
+    "new": "bunx qiita new",
+    "publish": "bunx qiita publish"
   }
 }
